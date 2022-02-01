@@ -56,6 +56,7 @@
 	</style>
 </head>
 
+
 <body>
 	<div class="col mb-3">
 		<div class="textbig mb-3" id="titre1">Documentation</div>
